@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Natalia Turmanidze",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a rising senior, who is interested in bioinformatics. In the future I hope to study genetic disease and contribute to the scientific field. I am very excited to work on large data, learn how to interpret it and overall develop my skills in computational biology.",
 
   /*
   Optional photo:
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -39,11 +39,11 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Natalia_Turmanidze/1446595"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Natalia_Turmanidze/1446593"
     }
   ],
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/NataliaTurmanidze"
     }
   ]
 };
