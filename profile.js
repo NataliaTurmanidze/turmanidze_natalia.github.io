@@ -44,7 +44,7 @@ const studentProfile = {
     {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/Natalia_Turmanidze/1446593"
-    }
+    },
     {
       title: "Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/Natalia_Turmanidze/1448697"
